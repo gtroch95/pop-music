@@ -1,4 +1,4 @@
-# Pop Record Collecting in the Streaming Age
+# Physical Media in the Streaming Age: Pop on Discogs
 
 ## Project Description:
 
@@ -16,7 +16,7 @@ I fetched data from the Discogs API using Discogs’ proprietary client, **disco
 
 ## Further Uses:
 
-In the future, this project could be built upon to examine further developments in record collecting and physical music releases in pop and beyond, and currently, it could be used to examine other genres on Discogs. The workflow I used for separating requests into manageable chunks might be particularly useful for those that are having trouble with Discogs’ limitations on bulk data gathering.
+In the future, this project could be built upon to examine further developments in record collecting and physical music releases in pop. Currently, it could be used to examine other genres. The workflow I used for separating requests into manageable chunks might be particularly useful for those that are having trouble with Discogs’ limitations on bulk data gathering.
 
 ## Files:
 
