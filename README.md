@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-This project examines the past 10 years of pop music physical releases on vinyl, CD, and cassette using the Discogs API. The project visualizes changes over the past decade across major labels, independent labels, and self-released artists, and uncovers current collector interest across that spectrum in an era dominated by streaming services.
+This project examines the past 10 years of pop music physical releases on vinyl, CD, and cassette using the Discogs API. The project visualizes changes over the past decade across major labels, independent labels, and self-released artists, and uncovers current collector interest in an era dominated by streaming services.
 
 ## Rationale Statement: 
 
