@@ -1,4 +1,4 @@
-# Physical Media in the Streaming Age: Pop on Discogs
+# Physical Pop Music Releases in the Streaming Age
 
 ## Project Description:
 
