@@ -1,4 +1,5 @@
 # Examining Pop Music on Discogs
+Georgia Troch
 
 ## Project Description:
 
